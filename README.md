@@ -21,10 +21,13 @@ Android 8.0
 **Features**
 
 •	  Cadastro de usuário
+
 •	  Chat Para Suporte
 
 **🛠 Tecnologias**
 As seguintes ferramentas foram usadas na construção do projeto:
 •	CSS
+
 •	HTML
+
 •	EcmaScrit
