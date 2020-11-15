@@ -28,7 +28,7 @@ Android 8.0
 •	  Chat Para Suporte
 
 
-##🛠 Tecnologias:
+###🛠 Tecnologias:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -37,3 +37,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 •	HTML
 
 •	EcmaScrit
+
+
+### Desenvolvedores
+
+
+ <sub><b>Juliana Souza</b></sub></a>
+
+[![LinkedIn Badge](https://img.shields.io/badge/-@JulianaSouza-27b6d6?style=flat-square&labelColor=27b6d6&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-souza-982bb9135/)](https://www.linkedin.com/in/juliana-souza-982bb9135/) 
+
+
