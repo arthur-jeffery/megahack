@@ -13,17 +13,20 @@ Além de também, usuários serem capazes de se bonificarem com pontos e trocas 
 Nosso fluxo é acessível, com futuras projeções funcionais PCD. 
 O user trilha o seu caminho para o aprendizado, avançando a cada lição e desafio feito.
 
+
 **Requisitos para o Funcionamento:**
 
 Acesso à Internet
 Navegador Web
 Android 8.0
 
+
 **Features:**
 
 •	  Cadastro de usuário
 
 •	  Chat Para Suporte
+
 
 **🛠 Tecnologias:**
 
