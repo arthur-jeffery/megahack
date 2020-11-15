@@ -25,6 +25,7 @@ Android 8.0
 •	  Chat Para Suporte
 
 **🛠 Tecnologias**
+
 As seguintes ferramentas foram usadas na construção do projeto:
 
 •	CSS
