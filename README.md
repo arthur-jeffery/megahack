@@ -18,6 +18,6 @@ Features
 •	  Chat Para Suporte
 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
-•	[CSS]
-•	[HTML]
-•	[EcmaScrit]
+•	CSS
+•	HTML
+•	EcmaScrit
