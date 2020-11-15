@@ -2,7 +2,7 @@
 
 Bem-Vindo (a) a Invest uma plataforma desenvolvida durante a Hackathon Mega Hack 5.0 com o objetivo de ajudar a pessoa com TEA a se conectar ao mundo de investimentos.
 
-**Objetivo do Invest:**
+### Objetivo do Invest:
 
 
 O objetivo do Invest é agregar ao usuário uma experiencia de aprendizado enquanto joga, permitindo assim que o cliente realize investimentos independente do lugar que ele esteja.
@@ -14,21 +14,21 @@ Nosso fluxo é acessível, com futuras projeções funcionais PCD.
 O user trilha o seu caminho para o aprendizado, avançando a cada lição e desafio feito.
 
 
-**Requisitos para o Funcionamento:**
+### Requisitos para o Funcionamento:
 
 Acesso à Internet
 Navegador Web
 Android 8.0
 
 
-**Features:**
+### Features:
 
 •	  Cadastro de usuário
 
 •	  Chat Para Suporte
 
 
-###🛠 Tecnologias:
+### 🛠 Tecnologias:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -39,11 +39,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 •	EcmaScrit
 
 
-### Desenvolvedores
+### Desenvolvedores:
 
 
+<a href="https://www.linkedin.com/in/juliana-souza-982bb9135/">
+  <img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/763941475914219561/765325181903962182/WhatsApp_Image_2020-10-12_at_16.59.34.jpeg" width="100px;" alt=""/>
+  <br />
  <sub><b>Juliana Souza</b></sub></a>
-
-[![LinkedIn Badge](https://img.shields.io/badge/-@JulianaSouza-27b6d6?style=flat-square&labelColor=27b6d6&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-souza-982bb9135/)](https://www.linkedin.com/in/juliana-souza-982bb9135/) 
 
 
