@@ -4,6 +4,7 @@ Bem-Vindo (a) a Invest uma plataforma desenvolvida durante a Hackathon Mega Hack
 
 **Objetivo do Invest**
 
+
 O objetivo do Invest é agregar ao usuário uma experiencia de aprendizado enquanto joga, permitindo assim que o cliente realize investimentos independente do lugar que ele esteja.
 Conteúdo da Plataforma
 A INVEST é uma plataforma gamificada de aplicações do Mercado Pago, com acessibilidade para portadores de TEA e bonificação que desenvolve a educação financeira e o envolvimento de bolsa de valores.
