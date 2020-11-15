@@ -26,6 +26,7 @@ Android 8.0
 
 **🛠 Tecnologias**
 As seguintes ferramentas foram usadas na construção do projeto:
+
 •	CSS
 
 •	HTML
