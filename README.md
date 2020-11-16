@@ -40,9 +40,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ### Desenvolvedores:
-<a href="https://www.linkedin.com/in/pedro-pelicioni-748431169/">Pedro</a>
-<br><br>
 <a href='https://www.linkedin.com/in/arthur-jeffery-5520a81b1/'>Arthur Jeffery</a>
+<br><br>
+<a href="https://www.linkedin.com/in/pedro-pelicioni-748431169/">Pedro</a>
+
 <hr>
 ### Designer:
 <a href="https://www.linkedin.com/in/guilherme-silva-51b54b197/">guilherme</a>
